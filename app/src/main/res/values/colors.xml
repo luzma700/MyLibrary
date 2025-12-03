@@ -1,0 +1,33 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">#2196F3</item>
+        <item name="colorPrimaryDark">#1976D2</item>
+        <item name="colorAccent">#FF4081</item>
+    </style>
+
+    <!-- Tema para Splash Screen sin ActionBar -->
+    <style name="AppTheme.NoActionBar" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">#2196F3</item>
+        <item name="colorPrimaryDark">#1976D2</item>
+        <item name="colorAccent">#FF4081</item>
+        <item name="android:windowBackground">#2196F3</item>
+    </style>
+
+    <color name="color1">#FFB74D</color>
+    <color name="color2">#4FC3F7</color>
+    <color name="color3">#81C784</color>
+
+
+
+        <!-- Colores básicos -->
+        <color name="black">#FF000000</color>
+        <color name="white">#FFFFFFFF</color>
+        <color name="gray">#FF757575</color>
+
+        <!-- Colores adicionales -->
+        <color name="red">#F44336</color>
+        <color name="green">#4CAF50</color>
+        <color name="blue">#2196F3</color>
+    </resources>
+
